@@ -1,0 +1,14 @@
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\bin\Debug\Prisoner's Dilemma Simulation.exe.config
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\bin\Debug\Prisoner's Dilemma Simulation.exe
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\bin\Debug\Prisoner's Dilemma Simulation.pdb
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\bin\Debug\Prisoner's Dilemma Simulation.xml
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\obj\Debug\Prisoner's Dilemma Simulation.vbproj.AssemblyReference.cache
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\obj\Debug\Prisoner's Dilemma Simulation.vbproj.SuggestedBindingRedirects.cache
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\obj\Debug\Prisoner_s_Dilemma_Simulation.Form1.resources
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\obj\Debug\Prisoner_s_Dilemma_Simulation.Resources.resources
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\obj\Debug\Prisoner's Dilemma Simulation.vbproj.GenerateResource.cache
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\obj\Debug\Prisoner's Dilemma Simulation.vbproj.CoreCompileInputs.cache
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\obj\Debug\Prisoner's Dilemma Simulation.exe
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\obj\Debug\Prisoner's Dilemma Simulation.xml
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\obj\Debug\Prisoner's Dilemma Simulation.pdb
+C:\Users\richa\source\repos\Prisoner's Dilemma Simulation\Prisoner's Dilemma Simulation\obj\Debug\Prisoner_s_Dilemma_Simulation.Form2.resources
